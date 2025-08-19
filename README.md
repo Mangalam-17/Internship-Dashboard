@@ -3,6 +3,8 @@
 Welcome! This repo contains a clean, modern internship listing page inspired by VaultofCodes.  
 It’s built using HTML and CSS only, no navbars or footers acquired.
 
+#### Live Demo -> https://mangalam-17.github.io/Internship-Dashboard/
+
 ### 📷 Page Overview
 
 The page features:
