@@ -1,4 +1,4 @@
-## Assignment 3 - Designing a Internship Dashboard Page
+## Internship Dashboard Page
 
 Welcome! This repo contains a clean, modern internship listing page inspired by VaultofCodes.  
 It’s built using HTML and CSS only, no navbars or footers acquired.
@@ -24,7 +24,6 @@ _(To preview, open `index.html` in your browser after downloading both files)_
 ### Example.com page
 
 ![Example.com Screenshot](https://github.com/Mangalam-17/Vault-Of-Codes-Internship-2025/blob/c4f061d68a01fdefdb5faa0159f161d9fb8aaf41/Assignment-3/ScreenShots/examplePage.png)
-
 
 
 ### ✨ Features
